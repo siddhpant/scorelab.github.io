@@ -27,9 +27,9 @@ colors:  #in hex code if not noted else
 # Social networks usernames. Many more available: google-plus, flickr, linkedin, etc). Shown in footer.
 social:
   - title: facebook
-    url: https://www.facebook.com/Scorelab-1778392655529034
+    url: https://m.facebook.com/SCoRe.Lab.Org
   - title: twitter
-    url: https://twitter.com/scorelab_io
+    url: 
   - title: github
     url: https://github.com/scorelab
 
