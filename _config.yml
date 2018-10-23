@@ -27,9 +27,11 @@ colors:  #in hex code if not noted else
 # Social networks usernames. Many more available: google-plus, flickr, linkedin, etc). Shown in footer.
 social:
   - title: facebook
-    url:
+    url: https://www.facebook.com/Scorelab-1778392655529034
   - title: twitter
-    url:
+    url: https://twitter.com/scorelab_io
+  - title: github
+    url: https://github.com/scorelab
 
 # Postal address (add as many lines as necessary). Shown in footer and on Contact page.
 address:
